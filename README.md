@@ -13,3 +13,8 @@ For API
 1) Real eastate - propery sell
 2) Census - population for two census cycle
 # Project1Group1
+
+
+#Proposal
+
+The purpose of this project is to analyse the modes of transport in Melbourne, with a specific focus on trains, and assess the footfall in each city council area. Additionally, the analysis will incorporate Melbourne's real estate sales data to investigate if there is any correlation between higher footfall and property sale trends. 
