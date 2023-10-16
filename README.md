@@ -36,25 +36,24 @@ The project will draw its main data from sources such as the Department of Trans
 
 Key Objectives
 
-1. Transport Trends Evaluation
- The project will systematically assess the trends and performance indicators for each individual train line, aggregating data for all stations along each line.
+1. Transport Trends 
+The project will systematically assess the trends and performance indicators for each individual train line, aggregating data for all stations along each line.
 
-2.Station-Specific Percentage Changes
+2. Passanger Footfal
 For each station, the team will calculate and analyze percentage changes in footfall, providing valuable insights into usage patterns over time.
 
 3. Proximity to Central Business District (CBD)
 The distance of each station from the Central Business District (CBD) will be examined to discern spatial relationships and accessibility patterns.
 
-4. Modal Share Analysis
+4. Mode of Transport Share
 The project will investigate the distribution of different modes of transportation, shedding light on the popularity and efficiency of each mode.
 
-5. Comparative Station Analysis
+5. Station Analysis
 Stations offering multiple transport options will be compared against more remote stations to identify patterns related to accessibility and connectivity.
 
 6. Real Estate and Property Sales Examination
  The team will correlate public transport data with real estate sales information to understand the potential impact of transport accessibility on property transactions.
-7. Census Data Integration
-Census data will be incorporated to gain demographic insights, providing a comprehensive view of the population's transport behaviour.
+
 
 Conclusion
 This project provides insight into the relationship between public transport trends and the real estate market in Melbourne. The findings will offer valuable information for potential property buyers and commuters. By understanding the dynamics of transportation and real estate, stakeholders can make informed decisions when buyng property or opening a business based on those trends.
