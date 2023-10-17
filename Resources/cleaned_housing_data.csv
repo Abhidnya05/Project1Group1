@@ -1,0 +1,321 @@
+City Council_format2,Year,House Number of Sales,Unit/Apartment Number of Sales,Vacant House Number of Sales,Total Number of Sales
+Alpine Shire,2018 ,218,64,106,388
+Alpine Shire,2019 ,214,44,69,327
+Alpine Shire,2020 ,244,47,96,387
+Alpine Shire,2021 ,252,65,72,389
+Ararat Rural City,2018 ,209,22,25,256
+Ararat Rural City,2019 ,194,20,15,229
+Ararat Rural City,2020 ,193,22,42,257
+Ararat Rural City,2021 ,224,29,27,280
+Ballarat City,2018 ,2478,559,1879,4916
+Ballarat City,2019 ,2142,418,1499,4059
+Ballarat City,2020 ,2142,455,1876,4473
+Ballarat City,2021 ,2474,486,1100,4060
+Banyule City,2018 ,1277,862,19,2158
+Banyule City,2019 ,1254,932,26,2212
+Banyule City,2020 ,1048,794,19,1861
+Banyule City,2021 ,1599,1151,18,2768
+Bass Coast Shire,2018 ,1148,209,876,2233
+Bass Coast Shire,2019 ,958,168,445,1571
+Bass Coast Shire,2020 ,1166,168,829,2163
+Bass Coast Shire,2021 ,1347,245,606,2198
+Baw Baw Shire,2018 ,989,151,778,1918
+Baw Baw Shire,2019 ,808,118,443,1369
+Baw Baw Shire,2020 ,867,132,925,1924
+Baw Baw Shire,2021 ,1153,152,570,1875
+Bayside City,2018 ,1153,850,11,2014
+Bayside City,2019 ,1207,868,4,2079
+Bayside City,2020 ,1073,733,15,1821
+Bayside City,2021 ,1511,1093,12,2616
+Benalla Rural City,2018 ,236,61,44,341
+Benalla Rural City,2019 ,215,34,50,299
+Benalla Rural City,2020 ,224,35,60,319
+Benalla Rural City,2021 ,257,27,72,356
+Greater Bendigo City,2018 ,1963,363,765,3091
+Greater Bendigo City,2019 ,1875,371,844,3090
+Greater Bendigo City,2020 ,1884,321,1410,3615
+Greater Bendigo City,2021 ,2350,455,569,3374
+Boroondara City,2018 ,1610,1523,24,3157
+Boroondara City,2019 ,1657,1349,19,3025
+Boroondara City,2020 ,1398,1148,17,2563
+Boroondara City,2021 ,2221,1885,25,4131
+Brimbank City,2018 ,1922,564,59,2545
+Brimbank City,2019 ,1757,525,159,2441
+Brimbank City,2020 ,1408,467,149,2024
+Brimbank City,2021 ,2250,761,111,3122
+Buloke Shire,2018 ,123,3,18,144
+Buloke Shire,2019 ,105,5,17,127
+Buloke Shire,2020 ,131,7,29,167
+Buloke Shire,2021 ,149,3,39,191
+Campaspe Shire,2018 ,491,81,127,699
+Campaspe Shire,2019 ,424,94,116,634
+Campaspe Shire,2020 ,480,68,237,785
+Campaspe Shire,2021 ,607,95,74,776
+Cardina Shire,2018 ,1853,235,903,2991
+Cardina Shire,2019 ,1726,208,789,2723
+Cardina Shire,2020 ,1669,197,1209,3075
+Cardina Shire,2021 ,2583,285,781,3649
+Casey City,2018 ,4511,584,2677,7772
+Casey City,2019 ,4683,522,2328,7533
+Casey City,2020 ,4365,562,4235,9162
+Casey City,2021 ,6406,875,2107,9388
+Central Goldfields Shire,2018 ,233,36,36,305
+Central Goldfields Shire,2019 ,207,23,41,271
+Central Goldfields Shire,2020 ,203,25,67,295
+Central Goldfields Shire,2021 ,294,32,93,419
+Colac Otway Shire,2018 ,374,62,177,613
+Colac Otway Shire,2019 ,340,50,136,526
+Colac Otway Shire,2020 ,350,52,141,543
+Colac Otway Shire,2021 ,387,55,111,553
+Corangamite Shire,2018 ,211,14,44,269
+Corangamite Shire,2019 ,177,10,41,228
+Corangamite Shire,2020 ,217,13,67,297
+Corangamite Shire,2021 ,251,18,46,315
+Greater Dandenong City,2018 ,1098,937,74,2109
+Greater Dandenong City,2019 ,1155,761,80,1996
+Greater Dandenong City,2020 ,931,693,71,1695
+Greater Dandenong City,2021 ,1506,1289,55,2850
+Darebin City,2018 ,1290,1402,16,2708
+Darebin City,2019 ,1267,1242,12,2521
+Darebin City,2020 ,1107,1174,5,2286
+Darebin City,2021 ,1635,1878,20,3533
+East Gippsland Shire,2018 ,923,147,368,1438
+East Gippsland Shire,2019 ,843,132,332,1307
+East Gippsland Shire,2020 ,1012,86,567,1665
+East Gippsland Shire,2021 ,1243,106,513,1862
+Frankston City,2018 ,2117,803,69,2989
+Frankston City,2019 ,1986,752,86,2824
+Frankston City,2020 ,1810,813,58,2681
+Frankston City,2021 ,2465,1131,50,3646
+Frankston City,2018 ,0,0,0,0
+Frankston City,2019 ,0,0,1,1
+Frankston City,2020 ,0,0,0,0
+Frankston City,2021 ,0,0,7,7
+Gannawarra Shire,2018 ,194,8,40,242
+Gannawarra Shire,2019 ,161,9,34,204
+Gannawarra Shire,2020 ,173,15,59,247
+Gannawarra Shire,2021 ,232,15,54,301
+Greater Geelong City,2018 ,4560,1118,3367,9045
+Greater Geelong City,2019 ,4184,934,1619,6737
+Greater Geelong City,2020 ,4440,971,3227,8638
+Greater Geelong City,2021 ,5602,1166,2457,9225
+Glen Eira City,2018 ,1224,1736,13,2973
+Glen Eira City,2019 ,1283,1456,14,2753
+Glen Eira City,2020 ,948,1479,5,2432
+Glen Eira City,2021 ,1435,2269,8,3712
+Glenelg Shire,2018 ,418,39,71,528
+Glenelg Shire,2019 ,349,58,72,479
+Glenelg Shire,2020 ,363,30,148,541
+Glenelg Shire,2021 ,393,47,107,547
+Golden Plains Shire,2018 ,126,9,95,230
+Golden Plains Shire,2019 ,117,4,52,173
+Golden Plains Shire,2020 ,140,10,96,246
+Golden Plains Shire,2021 ,138,6,47,191
+Hepburn Shire,2018 ,286,24,91,401
+Hepburn Shire,2019 ,253,22,74,349
+Hepburn Shire,2020 ,289,27,125,441
+Hepburn Shire,2021 ,312,19,145,476
+Hindmarsh Shire,2018 ,118,4,23,145
+Hindmarsh Shire,2019 ,98,5,22,125
+Hindmarsh Shire,2020 ,118,6,20,144
+Hindmarsh Shire,2021 ,142,2,28,172
+Hobsons Bay City,2018 ,1045,559,49,1653
+Hobsons Bay City,2019 ,1142,571,16,1729
+Hobsons Bay City,2020 ,963,509,27,1499
+Hobsons Bay City,2021 ,1431,824,21,2276
+Horsham Rural City,2018 ,327,55,51,433
+Horsham Rural City,2019 ,318,55,68,441
+Horsham Rural City,2020 ,391,51,124,566
+Horsham Rural City,2021 ,453,68,117,638
+Hume City,2018 ,3050,537,2077,5664
+Hume City,2019 ,3030,493,1822,5345
+Hume City,2020 ,2923,514,3281,6718
+Hume City,2021 ,4296,809,1270,6375
+Indigo Shire,2018 ,193,26,82,301
+Indigo Shire,2019 ,179,20,62,261
+Indigo Shire,2020 ,171,16,138,325
+Indigo Shire,2021 ,215,13,52,280
+Kingston City,2018 ,1419,1480,12,2911
+Kingston City,2019 ,1534,1453,36,3023
+Kingston City,2020 ,1238,1319,31,2588
+Kingston City,2021 ,1825,1912,35,3772
+Knox City,2018 ,1645,797,48,2490
+Knox City,2019 ,1612,808,44,2464
+Knox City,2020 ,1352,704,39,2095
+Knox City,2021 ,2116,1034,39,3189
+Latrobe City,2018 ,1631,238,298,2167
+Latrobe City,2019 ,1398,172,323,1893
+Latrobe City,2020 ,1548,243,593,2384
+Latrobe City,2021 ,1863,266,351,2480
+Loddon Shire,2018 ,83,2,30,115
+Loddon Shire,2019 ,85,1,25,111
+Loddon Shire,2020 ,93,1,38,132
+Loddon Shire,2021 ,117,0,37,154
+Macedon Ranges Shire,2018 ,573,98,186,857
+Macedon Ranges Shire,2019 ,475,94,177,746
+Macedon Ranges Shire,2020 ,544,81,416,1041
+Macedon Ranges Shire,2021 ,654,133,333,1120
+Manningham City,2018 ,1067,790,48,1905
+Manningham City,2019 ,1214,899,53,2166
+Manningham City,2020 ,940,721,54,1715
+Manningham City,2021 ,1522,1057,40,2619
+Mansfield Shire,2018 ,151,29,109,289
+Mansfield Shire,2019 ,127,22,102,251
+Mansfield Shire,2020 ,176,30,123,329
+Mansfield Shire,2021 ,232,22,67,321
+Maribyrnong City,2018 ,743,1182,41,1966
+Maribyrnong City,2019 ,847,943,101,1891
+Maribyrnong City,2020 ,901,949,56,1906
+Maribyrnong City,2021 ,1120,1235,18,2373
+Maroondah City,2018 ,1220,823,46,2089
+Maroondah City,2019 ,1215,960,58,2233
+Maroondah City,2020 ,1000,774,64,1838
+Maroondah City,2021 ,1501,1266,74,2841
+Melbourne City,2018 ,304,4531,6,4841
+Melbourne City,2019 ,274,3828,1,4103
+Melbourne City,2020 ,224,2832,0,3056
+Melbourne City,2021 ,399,3777,4,4180
+Melton City,2018 ,2425,290,3835,6550
+Melton City,2019 ,2197,261,2299,4757
+Melton City,2020 ,2243,209,4871,7323
+Melton City,2021 ,3411,324,4008,7743
+Mildura Rural City,2018 ,938,153,244,1335
+Mildura Rural City,2019 ,895,146,254,1295
+Mildura Rural City,2020 ,935,144,389,1468
+Mildura Rural City,2021 ,1106,224,236,1566
+Mitchell Shire,2018 ,680,75,677,1432
+Mitchell Shire,2019 ,550,71,346,967
+Mitchell Shire,2020 ,582,65,870,1517
+Mitchell Shire,2021 ,814,115,944,1873
+Moira Shire,2018 ,499,106,174,779
+Moira Shire,2019 ,410,81,196,687
+Moira Shire,2020 ,462,99,233,794
+Moira Shire,2021 ,601,94,281,976
+Monash City,2018 ,1671,1445,25,3141
+Monash City,2019 ,1727,1257,22,3006
+Monash City,2020 ,1338,1169,31,2538
+Monash City,2021 ,2149,1685,31,3865
+Moonee Valley City,2018 ,1212,1137,20,2369
+Moonee Valley City,2019 ,1186,1129,25,2340
+Moonee Valley City,2020 ,1108,831,31,1970
+Moonee Valley City,2021 ,1774,1229,26,3029
+Moorabool Shire,2018 ,474,79,426,979
+Moorabool Shire,2019 ,437,62,240,739
+Moorabool Shire,2020 ,431,70,315,816
+Moorabool Shire,2021 ,599,92,120,811
+Merri-Bec,2018 ,1543,1975,29,3547
+Merri-Bec,2019 ,1451,1895,12,3358
+Merri-Bec,2020 ,1276,1644,30,2950
+Merri-Bec,2021 ,1894,2458,20,4372
+Mornington Peninsula Shire,2018 ,3262,826,280,4368
+Mornington Peninsula Shire,2019 ,3282,737,254,4273
+Mornington Peninsula Shire,2020 ,3375,787,397,4559
+Mornington Peninsula Shire,2021 ,4129,1149,307,5585
+Mount Alexander Shire,2018 ,275,33,174,482
+Mount Alexander Shire,2019 ,288,23,110,421
+Mount Alexander Shire,2020 ,301,23,161,485
+Mount Alexander Shire,2021 ,328,32,104,464
+Moyne Shire,2018 ,190,23,70,283
+Moyne Shire,2019 ,201,19,58,278
+Moyne Shire,2020 ,198,13,82,293
+Moyne Shire,2021 ,198,21,50,269
+Murrindindi Shire,2018 ,199,17,68,284
+Murrindindi Shire,2019 ,159,14,51,224
+Murrindindi Shire,2020 ,181,11,98,290
+Murrindindi Shire,2021 ,231,13,79,323
+Nillumbik Shire,2018 ,464,191,62,717
+Nillumbik Shire,2019 ,594,185,71,850
+Nillumbik Shire,2020 ,472,126,119,717
+Nillumbik Shire,2021 ,693,188,111,992
+Northern Grampians Shire,2018 ,206,10,25,241
+Northern Grampians Shire,2019 ,224,16,25,265
+Northern Grampians Shire,2020 ,211,22,40,273
+Northern Grampians Shire,2021 ,213,17,41,271
+Port Phillip City,2018 ,619,2257,2,2878
+Port Phillip City,2019 ,647,1932,1,2580
+Port Phillip City,2020 ,621,1785,3,2409
+Port Phillip City,2021 ,914,2721,1,3636
+Pyrenees Shire,2018 ,76,0,30,106
+Pyrenees Shire,2019 ,74,1,24,99
+Pyrenees Shire,2020 ,67,0,36,103
+Pyrenees Shire,2021 ,78,2,63,143
+Borough of Queenscliffe,2018 ,71,20,6,97
+Borough of Queenscliffe,2019 ,74,16,2,92
+Borough of Queenscliffe,2020 ,86,20,9,115
+Borough of Queenscliffe,2021 ,94,21,5,120
+Greater Shepparton City,2018 ,947,137,438,1522
+Greater Shepparton City,2019 ,828,140,344,1312
+Greater Shepparton City,2020 ,974,112,633,1719
+Greater Shepparton City,2021 ,1163,174,374,1711
+South Gippsland Shire,2018 ,568,75,296,939
+South Gippsland Shire,2019 ,464,49,174,687
+South Gippsland Shire,2020 ,547,41,292,880
+South Gippsland Shire,2021 ,608,49,198,855
+Southern Grampians Shire,2018 ,301,13,32,346
+Southern Grampians Shire,2019 ,242,32,28,302
+Southern Grampians Shire,2020 ,307,19,59,385
+Southern Grampians Shire,2021 ,356,23,33,412
+Stonnington City,2018 ,897,1932,3,2832
+Stonnington City,2019 ,827,1633,1,2461
+Stonnington City,2020 ,786,1431,7,2224
+Stonnington City,2021 ,1199,2302,6,3507
+Strathbogie Shire,2018 ,156,29,94,279
+Strathbogie Shire,2019 ,156,25,65,246
+Strathbogie Shire,2020 ,106,20,103,229
+Strathbogie Shire,2021 ,190,15,87,292
+Surf Coast Shire,2018 ,538,156,379,1073
+Surf Coast Shire,2019 ,537,119,255,911
+Surf Coast Shire,2020 ,657,135,394,1186
+Surf Coast Shire,2021 ,662,128,196,986
+Swan Hill Rural City,2018 ,294,47,49,390
+Swan Hill Rural City,2019 ,270,44,53,367
+Swan Hill Rural City,2020 ,248,29,90,367
+Swan Hill Rural City,2021 ,317,33,71,421
+Towong Shire,2018 ,77,3,15,95
+Towong Shire,2019 ,64,4,16,84
+Towong Shire,2020 ,95,6,17,118
+Towong Shire,2021 ,92,7,20,119
+Wangaratta Rural City,2018 ,423,60,110,593
+Wangaratta Rural City,2019 ,424,55,128,607
+Wangaratta Rural City,2020 ,425,51,197,673
+Wangaratta Rural City,2021 ,502,73,61,636
+Warrnambool City,2018 ,618,139,143,900
+Warrnambool City,2019 ,542,173,231,946
+Warrnambool City,2020 ,583,142,395,1120
+Warrnambool City,2021 ,650,144,129,923
+Wellington Shire,2018 ,824,79,338,1241
+Wellington Shire,2019 ,751,88,338,1177
+Wellington Shire,2020 ,879,94,477,1450
+Wellington Shire,2021 ,1101,140,564,1805
+West Wimmera Shire,2018 ,50,0,6,56
+West Wimmera Shire,2019 ,49,1,7,57
+West Wimmera Shire,2020 ,61,1,11,73
+West Wimmera Shire,2021 ,66,0,12,78
+Whitehorse City,2018 ,1544,1466,17,3027
+Whitehorse City,2019 ,1561,1448,27,3036
+Whitehorse City,2020 ,1241,1119,24,2384
+Whitehorse City,2021 ,2000,1719,20,3739
+Whittlesea City,2018 ,2781,577,1720,5078
+Whittlesea City,2019 ,2700,422,1194,4316
+Whittlesea City,2020 ,2600,439,2173,5212
+Whittlesea City,2021 ,3665,733,1221,5619
+Wodonga City,2018 ,714,122,327,1163
+Wodonga City,2019 ,644,119,320,1083
+Wodonga City,2020 ,740,125,601,1466
+Wodonga City,2021 ,914,163,327,1404
+Wyndham City,2018 ,3960,585,4355,8900
+Wyndham City,2019 ,3697,433,2412,6542
+Wyndham City,2020 ,3545,346,3965,7856
+Wyndham City,2021 ,6000,607,3222,9829
+Yarra City,2018 ,709,1598,2,2309
+Yarra City,2019 ,697,1158,2,1857
+Yarra City,2020 ,648,994,2,1644
+Yarra City,2021 ,1087,1512,2,2601
+Yarra Ranges Shire,2018 ,2064,357,159,2580
+Yarra Ranges Shire,2019 ,1973,368,194,2535
+Yarra Ranges Shire,2020 ,1790,429,255,2474
+Yarra Ranges Shire,2021 ,2324,563,195,3082
+Yarriambiack Shire,2018 ,159,2,27,188
+Yarriambiack Shire,2019 ,126,4,29,159
+Yarriambiack Shire,2020 ,153,3,27,183
+Yarriambiack Shire,2021 ,159,1,36,196
