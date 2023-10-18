@@ -2,7 +2,7 @@
 
 # Project Title :  Melbourne Public Trasport Trends by passenger footfall and Housing sales 
 
-###### Project1Group1
+###### Project 1: Group1
 
 ###### Members : Talieh, Yared, Peter, Abhi
 
@@ -17,7 +17,7 @@ The aim of the project is to analyse the share of the different public transport
 
 In this project, we will analyse the footfall of each city council area and compared it with each area's house and apartment sales. We will also need to look into the distance of city council areas from Melbourne CBD as this may be a factor in types 'homes' that will be purchased.  
 
-#### Data Sources
+### Data Sources
 
 The project will draw its main data from the Department of Transport and Planning under the Government of Victoria.
 
@@ -42,31 +42,26 @@ The project will draw its main data from the Department of Transport and Plannin
 >
 >The data is compiled using information lodged every time a property sale is completed
 
-##### Key Objectives
+### Key Objectives
 
-###### 1. Transport Trends 
+1. Transport Trends 
+- Assess the trends and performance indicators for each individual train line, aggregating data for all stations along each line.
 
-The project will systematically assess the trends and performance indicators for each individual train line, aggregating data for all stations along each line.
+2. Passenger Footfall 
+- For each station, the team will calculate and analyze changes in footfall.
 
-###### 2. Passanger Footfall
+3.Proximity to Central Business District (CBD) 
+- Examine the distance of each city council area from the CBD.
 
-For each station, the team will calculate and analyze percentage changes in footfall, providing valuable insights into usage patterns over time.
 
-###### 3. Proximity to Central Business District (CBD)
+4. Mode of Transport Share
+- Investigate the distribution of different modes of transportation, shedding light on the popularity and efficiency of each mode.
 
-The distance of each station from the Central Business District (CBD) will be examined to discern spatial relationships and accessibility patterns.
+5. Station Analysis
+- Stations offering multiple transport options will be compared against more remote stations to identify patterns related to accessibility and connectivity.
 
-###### 4. Mode of Transport Share
-
-The project will investigate the distribution of different modes of transportation, shedding light on the popularity and efficiency of each mode.
-
-###### 5. Station Analysis
-
-Stations offering multiple transport options will be compared against more remote stations to identify patterns related to accessibility and connectivity.
-
-###### 6. Real Estate and Property Sales Examination
-
- The team will correlate public transport data with real estate sales information to understand the potential impact of transport accessibility on property transactions.
+6. Real Estate and Property Sales Examination
+- Correlate public transport data with real estate sales information to understand the potential impact of transport accessibility on property transactions.
 
 
 #### Summary
