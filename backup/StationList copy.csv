@@ -1,0 +1,220 @@
+Zone,Line name ,Stop_name,City council
+2,Sunbury line,Sunbury,Hume C  
+2,Sunbury line,Diggers Rest,Hume C  
+2,Sunbury line,Watergardens,Brimbank C  
+2,Sunbury line,Keilor Plains,Brimbank C  
+2,Sunbury line,St Albans,Brimbank C  
+2,Sunbury line,Ginifer,Brimbank C  
+1&2,Sunbury line,Albion,Brimbank C  
+1&2,Sunbury line,Sunshine,Brimbank C  
+1,Sunbury line,Tottenham,Maribyrnong C  
+1,Sunbury line,West Footscray,Maribyrnong C  
+1,Sunbury line,Middle Footscray,Maribyrnong C  
+1,inner city,Footscray,Maribyrnong C  
+1,inner city,South Kensington,Melbourne C  
+1,inner city,North Melbourne,Melbourne C  
+1,City Loop,Flagstaff,Melbourne C  
+1,City Loop,Melbourne Central,Melbourne C  
+1,City Loop,Parliament,Melbourne C  
+1,City Loop,Flinders Street,Melbourne C  
+1,City Loop,Southern Cross,Melbourne C  
+1,Ringwood line,Alamein,Boroondara C  
+1,Ringwood line,Ashburton,Boroondara C  
+1,Ringwood line,Burwood,Boroondara C  
+1,Ringwood line,Hartwell,Boroondara C  
+1,Ringwood line,Willison,Boroondara C  
+1,Ringwood line,Riversdale,Boroondara C  
+1,Ringwood line,Camberwell,Boroondara C  
+1,Ringwood line,Auburn,Boroondara C  
+1,Ringwood line,Glenferrie,Boroondara C  
+1,Ringwood line,Hawthorn,Boroondara C  
+1,Inner city,Burnley,Yarra C  
+1,Inner city,East Richmond,Yarra C  
+1,Inner city,Richmond,Yarra C  
+2,Ringwood line,Belgrave,Yarra Ranges S  
+2,Ringwood line,Tecoma,Yarra Ranges S  
+2,Ringwood line,Upwey,Yarra Ranges S  
+2,Ringwood line,Upper Ferntree Gully,Knox C  
+2,Ringwood line,Ferntree Gully,Knox C  
+2,Ringwood line,Boronia,Knox C  
+2,Ringwood line,Bayswater,Knox C  
+2,Ringwood line,Heathmont,Maroondah C  
+2,Ringwood line,Ringwood,Maroondah C  
+2,Ringwood line,Heatherdale,Maroondah C  
+2,Ringwood line,Mitcham,Whitehorse C  
+2,Ringwood line,Nunawading,Whitehorse C  
+2,Ringwood line,Blackburn,Whitehorse C  
+2,Ringwood line,Laburnum,Whitehorse C  
+2,Ringwood line,Box Hill,Whitehorse C  
+1&2,Ringwood line,Union,Boroondara C  
+1&2,Ringwood line,Chatham,Boroondara C  
+1&2,Ringwood line,Canterbury,Boroondara C  
+1,Ringwood line,East Camberwell,Boroondara C  
+2,Craigieburn line,Craigieburn,Hume C  
+2,Craigieburn line,Roxburgh Park,Hume C  
+2,Craigieburn line,Coolaroo,Hume C  
+2,Craigieburn line,Broadmeadows,Hume C  
+2,Craigieburn line,Jacana,Hume C  
+1&2,Craigieburn line,Glenroy,Moreland C  
+1&2,Craigieburn line,Oak Park,Moreland C  
+1&2,Craigieburn line,Pascoe Vale,Moreland C  
+1,Craigieburn line,Strathmore,Moonee Valley C  
+1,Craigieburn line,Glenbervie,Moonee Valley C  
+1,Craigieburn line,Essendon,Moonee Valley C  
+1,Craigieburn line,Moonee Ponds,Moonee Valley C  
+1,Craigieburn line,Ascot Vale,Moonee Valley C  
+1,Craigieburn line,Newmarket,Moonee Valley C  
+1,Craigieburn line,Kensington,Melbourne C  
+2,Dandenong line,Cranbourne,Casey C  
+2,Dandenong line,Merinda Park,Casey C  
+2,Dandenong line,Lynbrook,Casey C  
+1,Dandenong line,Dandenong,Greater Dandenong C  
+2,Dandenong line,Yarraman,Greater Dandenong C  
+2,Dandenong line,Noble Park,Greater Dandenong C  
+2,Dandenong line,Sandown Park,Greater Dandenong C  
+2,Dandenong line,Springvale,Greater Dandenong C  
+2,Dandenong line,Westall,Kingston C  
+2,Dandenong line,Clayton,Monash C  
+1&2,Dandenong line,Huntingdale,Monash C  
+1&2,Dandenong line,Oakleigh,Monash C  
+1&2,Dandenong line,Hughesdale,Monash C  
+1,Dandenong line,Murrumbeena,Glen Eira C  
+1,Dandenong line,Carnegie,Glen Eira C  
+1,Dandenong line,Caulfield,Glen Eira C  
+1,Dandenong line,Malvern,Stonnington C  
+1,Dandenong line,Armadale,Stonnington C  
+1,Dandenong line,Toorak,Stonnington C  
+1,Dandenong line,Hawksburn,Stonnington C  
+1,Inner city,South Yarra,Melbourne C  
+2,Frankston line,Frankston,Frankston C  
+2,Frankston line,Kananook,Frankston C  
+2,Frankston line,Seaford,Frankston C  
+2,Frankston line,Carrum,Kingston C  
+2,Frankston line,Bonbeach,Kingston C  
+2,Frankston line,Chelsea,Kingston C  
+2,Frankston line,Edithvale,Kingston C  
+2,Frankston line,Aspendale,Kingston C  
+2,Frankston line,Mordialloc,Kingston C  
+2,Frankston line,Parkdale,Kingston C  
+2,Frankston line,Mentone,Kingston C  
+2,Frankston line,Cheltenham,Bayside C  
+2,Frankston line,Southland,Bayside C  
+2,Frankston line,Highett,Bayside C  
+2,Frankston line,Moorabbin,Bayside C  
+2,Frankston line,Patterson,Glen Eira C  
+1&2,Frankston line,Bentleigh,Glen Eira C  
+1&2,Frankston line,McKinnon,Glen Eira C  
+1&2,Frankston line,Ormond,Glen Eira C  
+1,Frankston line,Glen Huntly,Glen Eira C  
+2,Glen Waverley line,Glen Waverley,Monash C  
+2,Glen Waverley line,Syndal,Monash C  
+2,Glen Waverley line,Mount Waverley,Monash C  
+2,Glen Waverley line,Jordanville,Monash C  
+1&2,Glen Waverley line,Holmesglen,Stonnington C  
+1&2,Glen Waverley line,East Malvern,Stonnington C  
+1&2,Glen Waverley line,Darling,Stonnington C  
+1,Glen Waverley line,Glen Iris,Stonnington C  
+1,Glen Waverley line,Gardiner,Stonnington C  
+1,Glen Waverley line,Tooronga,Stonnington C  
+1,Glen Waverley line,Kooyong,Stonnington C  
+1,Glen Waverley line,Heyington,Stonnington C  
+2,Hurstbridge line,Hurstbridge,Nillumbik S  
+2,Hurstbridge line,Wattle Glen,Nillumbik S  
+2,Hurstbridge line,Diamond Creek,Nillumbik S  
+2,Hurstbridge line,Eltham,Banyule C  
+2,Hurstbridge line,Montmorency,Banyule C  
+2,Hurstbridge line,Greensborough,Banyule C  
+2,Hurstbridge line,Watsonia,Banyule C  
+2,Hurstbridge line,Macleod,Banyule C  
+2,Hurstbridge line,Rosanna,Banyule C  
+1&2,Hurstbridge line,Heidelberg,Banyule C  
+1&2,Hurstbridge line,Eaglemont,Banyule C  
+1&2,Hurstbridge line,Ivanhoe,Banyule C  
+1,Hurstbridge line,Darebin,Banyule C  
+1,Hurstbridge line,Alphington,Darebin C  
+1,Hurstbridge line,Fairfield,Darebin C  
+1,Hurstbridge line,Dennis,Darebin C  
+1,Hurstbridge line,Westgarth,Darebin C  
+1,Inner city,Clifton Hill,Yarra C  
+1,Inner city,Victoria Park,Yarra C  
+1,Inner city,Collingwood,Yarra C  
+1,Inner city,North Richmond,Yarra C  
+1,Inner city,West Richmond,Yarra C  
+1,Inner city,Jolimont-MCG,Melbourne C  
+2,Ringwood line,Lilydale,Yarra Ranges S  
+2,Ringwood line,Mooroolbark,Yarra Ranges S  
+2,Ringwood line,Croydon,Maroondah C  
+2,Ringwood line,Ringwood East,Maroondah C  
+2,Mernda line,Mernda,Whittlesea C  
+2,Mernda line,Hawkstowe,Whittlesea C  
+2,Mernda line,Middle Gorge,Whittlesea C  
+2,Mernda line,South Morang,Whittlesea C  
+2,Mernda line,Epping,Whittlesea C  
+2,Mernda line,Lalor,Whittlesea C  
+2,Mernda line,Thomastown,Whittlesea C  
+2,Mernda line,Keon Park,Darebin C  
+2,Mernda line,Ruthven,Darebin C  
+1&2,Mernda line,Reservoir,Darebin C  
+1&2,Mernda line,Regent,Darebin C  
+1&2,Mernda line,Preston,Darebin C  
+1,Mernda line,Bell,Darebin C  
+1,Mernda line,Thornbury,Darebin C  
+1,Mernda line,Croxton,Darebin C  
+1,Mernda line,Northcote,Darebin C  
+1,Mernda line,Merri,Darebin C  
+1,Mernda line,Rushall,Yarra C  
+2,Dandenong line,Pakenham,Cardinia S  
+2,Dandenong line,Cardinia Road,Cardinia S  
+2,Dandenong line,Officer,Cardinia S  
+2,Dandenong line,Beaconsfield,Cardinia S  
+2,Dandenong line,Berwick,Casey C  
+2,Dandenong line,Narre Warren,Casey C  
+2,Dandenong line,Hallam,Casey C  
+2,Sandringham line,Sandringham,Bayside C  
+2,Sandringham line,Hampton,Bayside C  
+1&2,Sandringham line,Brighton Beach,Bayside C  
+1&2,Sandringham line,Middle Brighton,Bayside C  
+1&2,Sandringham line,North Brighton,Bayside C  
+1,Sandringham line,Gardenvale,Glen Eira C  
+1,Sandringham line,Elsternwick,Glen Eira C  
+1,Sandringham line,Ripponlea,Port Phillip C  
+1,Sandringham line,Balaclava,Port Phillip C  
+1,Sandringham line,Windsor,Port Phillip C  
+1,Sandringham line,Prahran,Melbourne C  
+2,Stony Point line,Stony Point,Mornington Peninsula S  
+2,Stony Point line,Crib Point,Mornington Peninsula S  
+2,Stony Point line,Morradoo,Mornington Peninsula S  
+2,Stony Point line,Bittern,Mornington Peninsula S  
+2,Stony Point line,Hastings,Mornington Peninsula S  
+2,Stony Point line,Tyabb,Mornington Peninsula S  
+2,Stony Point line,Somerville,Mornington Peninsula S  
+2,Stony Point line,Baxter,Mornington Peninsula S  
+2,Stony Point line,Leawarra,Frankston C  
+2,Upfield line,Upfield,Hume C  
+2,Upfield line,Gowrie,Merri-Bec
+1&2,Upfield line,Fawkner,Merri-Bec
+1&2,Upfield line,Merlynston,Merri-Bec
+1&2,Upfield line,Batman,Merri-Bec
+1,Upfield line,Coburg,Merri-Bec
+1,Upfield line,Moreland,Merri-Bec
+1,Upfield line,Anstey,Merri-Bec
+1,Upfield line,Brunswick,Merri-Bec
+1,Upfield line,Jewell,Merri-Bec
+1,Upfield line,Royal Park,Melbourne C  
+1,Upfield line,Flemington Bridge,Moonee Valley C  
+1,Upfield line,Macaulay,Melbourne C  
+2,Werribee line,Werribee,Wyndham C  
+2,Werribee line,Hoppers Crossing,Wyndham C  
+2,Werribee line,Williams Landing,Wyndham C  
+2,Werribee line,Aircraft,Hobsons Bay C  
+1&2,Werribee line,Laverton,Hobsons Bay C  
+1&2,Werribee line,Westona,Hobsons Bay C  
+1&2,Werribee line,Altona,Hobsons Bay C  
+1,Werribee line,Seaholme,Hobsons Bay C  
+1,Werribee line,Newport,Hobsons Bay C  
+1,Werribee line,Spotswood,Hobsons Bay C  
+1,Werribee line,Yarraville,Maribyrnong C  
+1,Werribee line,Seddon,Maribyrnong C  
+1,Werribee line,Williamstown,Hobsons Bay C  
+1,Werribee line,Williamstown Beach,Hobsons Bay C  
+1,Werribee line,North Williamstown,Hobsons Bay C  
