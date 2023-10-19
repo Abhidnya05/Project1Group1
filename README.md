@@ -34,13 +34,25 @@ Description:
 
 In this project, we will analyse the footfall of each city council area (we will make a group of metro stations per city council area) and compare it with each council's housing sales. We will also compare our results with VISTA survey.
 
-1) We made a list of metro staions in Melbounre with their zone and city council. We calculated distance of each metro station from flinders street railway station. For council, we took mean of station coordinates in that council, purpose do so for data visualisation on Maps
+1) We made a list of metro staions in Melbounre with their zone and city council. We calculated distance of each metro station from flinders street railway station. For council, we took mean of station coordinates in that council, purpose do so for data visualisation on Maps. Its easier for anyone to visaulise with maps than looking at charts.
 
 2) We combined all data files for PTV and calculated multiple stats relevnt to our work. This data was combined with cleaned housing data which includes plot, house, unit/apartment per city council.
 
-3) Relevant plots were generated. We done fitting with curvefit and lmfit with linear model for comaparison.
+3) Relevant plots were generated. We done fitting with curvefit and lmfit with linear model for comaparison. Melbounre CBD was outlier due to disproportionate passenger footfall. Slope and intercept were in sync for a data excluding Melbounre city council and viceversa. We also plotted bar charts to show sell of each type property type, on top of each bar we mentioned distance of each city council from flinders street station. Councils were aligned in ascending order.
 
-4) Multiple stats where generated from VISTA data and comapared VISTA results with PTV data.
+5) Statistics for each mode of trasport were generated from VISTA data and comapared VISTA results with PTV data. For certain city councils VISTA is in line with PTV however for certain councils data differ significantly. The difference occurs primarly due to source of data whih is mentioned earliar. VISTA survey also gives persective of reason for travel by residents of Victoria
+
+6)The codes are divided into two Jupyter notebooks, one each for PTV and VISTA
+
+Limitations
+
+1) Passenger footfall data does not give direct insighst of residents into that city council. The junctions, trasport hubs, stations with express train stoppage, last sttion of each metro line will have higher foootfall even from neighbouring suburbs or city councils.
+
+2) Some stations can have higher footfall beacause of proximity to tourist places, sports or recreational venues. E.g. Richmond & Jolimont will have higher footfall as both stations are closer to multiple sports venue. A single dat footfall at this station can be more than annula footfall ceratin stations.
+
+3) Paseenger footfall is rounded to units of 50
+
+4) City is still car oriented. Clubbing car registation data with PTV data can give more clear picture.
 
 Summary
 
@@ -50,7 +62,7 @@ Summary
 
 3) The apartments/units sell is higher for councils closer to CBD while plot sell is higher for councils away from CBD and vice versa.
 
-4) We havent figured any direct correlation between footfall and housing sell
+4) We havent figured any direct correlation between footfall and housing sell. The deeper disection of data is required.
 
 Future prospects
 
