@@ -5,17 +5,13 @@ Project 1: Group1
 
 Members : Talieh, Yared, Peter, Abhi
 
-Trying to understand footfall and housing sales from melbouurne cbd and as you go out from the cbd
-
-Data Analysis Proposal
-
 Aim :
 
-The aim of this project is to investigate Melbourne's Housing market sales and transportation data by city council areas.
+The aim of this project is to investigate Melbourne's Housing market sales & transportation data by city council areas and find the correlation between them
 
 Description:
 
-In this project, we will analyse the footfall of each city council area and compare it with each area's house and apartment sales. Separting the different modes of transport and investigating specifically into trains to hopefully identify if there is a trend between the footfall and sales of houses/apartments in Melbourne. A deeper dive into both dataset will be used to identify other possible trends.
+In this project, we will analyse the footfall of each city council area (we will make a group of metro stations per city council area) and compare it with each area's plot, house apartment and total sals. Separting the different modes of transport and investigating specifically into trains to identify if there is a trend between the footfall and sale of houses/apartments in Melbourne. A deeper dive into both dataset will be used to identify other possible trends as well.
 
 Data Sources
 
