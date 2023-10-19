@@ -17,10 +17,8 @@ The aim of this project is to investigate Melbourne's Housing market sales and t
 **Description:**
 
 In this project, we will analyse the footfall of each city council area and compare it with each area's house and apartment sales. 
+Separting the different modes of transport and investigating specifically into trains to hopefully identify if there is a trend between the footfall and sales of houses/apartments in Melbourne. A deeper dive into the housing data will be used to identify other possible influence over the sales accross Melbourne. 
 
-* We took a look at the different usage of public transport system which include train, trams and buses across melbourne. 
-* Analysed the footfall of the 3 transportation systems 
-*
 ### Data Sources
 
 The project will draw its main data from the Department of Transport and Planning under the Government of Victoria.
@@ -40,7 +38,7 @@ The project will draw its main data from the Department of Transport and Plannin
 4. [Victorian Integrated Survey of Travel and Activity (VISTA)](https://discover.data.vic.gov.au/dataset/victorian-integrated-survey-of-travel-and-activity)
 >The Victorian Integrated Survey of Travel and Activity (VISTA) is an ongoing survey of household travel activity.
 >
->all members of surveyed households are asked to complete a travel diary for a single specified day.
+>All members of surveyed households are asked to complete a travel diary for a single specified day.
 5. [Property Sales Statistics](https://www.land.vic.gov.au/valuations/resources-and-reports/property-sales-statistics)
 >The Valuer-General Victoria (VGV) releases comprehensive sales data for houses, units, vacant residential land and commercial, industrial and rural properties.
 >
@@ -48,24 +46,26 @@ The project will draw its main data from the Department of Transport and Plannin
 
 ### Key Objectives
 
-1. Transport Trends 
--[x] Assess the trends and performance indicators for each individual train line, aggregating data for all stations along each line.
+1. Transport Footfall Trends.
 
-2. Passenger Footfall 
--[x]For each station, the team will calculate and analyze changes in footfall.
+Investigate the footfall of passenger across different modes of transport across Melbourne between 2018-2023
 
-3.Proximity to Central Business District (CBD) 
--[x] Examine the distance of each city council area from the CBD.
+2. City council Footfall.
 
+For each station and city council, investigate the number of passenger starting their journey from that area.  
 
-4. Mode of Transport Share
--[x] Investigate the distribution of different modes of transportation, shedding light on the popularity and efficiency of each mode.
+3. Melbourne House market sales
 
-5. Station Analysis
--[x] Stations offering multiple transport options will be compared against more remote stations to identify patterns related to accessibility and connectivity.
+Identify the number of house/apartment sales across city council areas throughout Melbourne. 
 
-6. Real Estate and Property Sales Examination
--[x] Correlate public transport data with real estate sales information to understand the potential impact of transport accessibility on property transactions.
+5. Correlation between the datasets
+
+Identify if there is a correlation between the footfall in city council areas and the number of house/apartment sales.   
+
+6. Further investigation 
+
+Investigate trends throughout the data.
+
 
 
 ### Summary
